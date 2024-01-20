@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFan5aA0VV/0Lfd3veY+PzLZ9QAWl4wVSpS4j//i/Mi98FleTzk4vCAms1XqyiyaPUxlU8jNFx+4PhNRpGZ58w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baron\\Desktop\\10\\10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baron\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\baron\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\baron\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\baron\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
